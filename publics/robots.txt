@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /editor
+Disallow: /settings
+Disallow: /admin
+
+Sitemap: https://cv.gtech-academy.gn/sitemap.xml
