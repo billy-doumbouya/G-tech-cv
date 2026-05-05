@@ -5,4 +5,4 @@ Disallow: /editor
 Disallow: /settings
 Disallow: /admin
 
-Sitemap: https://cv.gtech-academy.gn/sitemap.xml
+Sitemap: https://g-tech-cv.vercel.app/sitemap.xml
